@@ -10,5 +10,3 @@ header{padding-left:max(6%,env(safe-area-inset-left));padding-right:max(6%,env(s
 @media(max-height:500px) and (orientation:landscape){.intro{padding-top:20px;grid-template-columns:1fr 1fr}.celebration{min-height:500px}.letter-scene{min-height:600px}}
 
 .letter>p{font-family:Arial,"Helvetica Neue",sans-serif}
-
-h1 em .tight-t{display:inline-block;margin-left:-.22em}
