@@ -1,0 +1,10 @@
+HƯỚNG DẪN MỞ WEBSITE
+
+1. Giải nén toàn bộ file ZIP.
+2. Mở index.html bằng Chrome hoặc Edge, hoặc mở thư mục bằng VS Code và chạy Live Server.
+3. Bấm Nhận quà 20/10 để bắt đầu nhạc và hiệu ứng.
+
+Giữ nguyên thư mục assets để hình ảnh và nhạc hoạt động.
+Tiếng mồ mố là bản mô phỏng, không phải âm thanh gốc của ứng dụng MoMo.
+
+Bản đã tối ưu bố cục cho màn hình điện thoại 320–430 px. Nội dung dài có thể cuộn dọc để xem hết.
